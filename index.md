@@ -5,7 +5,7 @@ The LED Neopixel game is a game built on an LED light. The goal of the game is t
 |:--:|:--:|:--:|:--:|
 | Andrew P | Carlmont Highschool | Computer Science/Math | Incoming Junior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://cdn.discordapp.com/attachments/853072431223406606/992427347573751899/unknown.png)
   
 # Final Milestone
 My final milestone is the buzzer in which it emits a unique sound when the player wins or loses. The buzzer had a little plus sign imprinted on top, but it was very difficult to spot. Through trial and error, the buzzer finally worked and I just needed to code the buzzer into the game. After I integrated the buzzer, I had completed my LED game with a buzzer modification.  
