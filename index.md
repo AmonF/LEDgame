@@ -1,6 +1,8 @@
 ﻿# LED Neopixel game
 The LED Neopixel game is a game built on an LED light. The goal of the game is to time the click of a button to a red light passing over a green light. This situation keeps on looping and getting faster until the player finally fails.
 
+Prices for materials - https://docs.google.com/spreadsheets/d/18zuDABbfihogpWZ0YCIodWkk2pFv2dHtZrfTaXnu53w/edit#gid=0
+
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Andrew P | Carlmont Highschool | Computer Science/Math | Incoming Junior
