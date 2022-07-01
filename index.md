@@ -1,24 +1,23 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# LED Neopixel game
+The LED Neopixel game is a game built on an LED light. The goal of the game is to time the click of a button to a red light passing over a green light. This situation keeps on looping and getting faster until the player finally fails.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Andrew P | Carlmont Highschool | Computer Science/Math | Incoming Junior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone is the buzzer in which it emits a unique sound when the player wins or loses. The buzzer had a little plus sign imprinted on top, but it was very difficult to spot. Through trial and error, the buzzer finally worked and I just needed to code the buzzer into the game. After I integrated the buzzer, I had completed my LED game with a buzzer modification.  
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://cdn.discordapp.com/attachments/853072431223406606/991748599857811536/unknown.png )](https://youtu.be/lJV1j20sELU "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My second milestone is creating the LED game itself. I used connected a button to the arduino and LED strip, so the game can funciton. Before I connected the wires, I had to get a program to work, in which I took sample code from the internet. After everything connected, the game worked flawlessly. However, the LED strip laying on the table is not visually appeasing, so I would need to install a frame for the strip in the future.
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Third Milestone](https://cdn.discordapp.com/attachments/853072431223406606/989533579258253353/unknown.png)](https://youtu.be/u6SQv3XonTA "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   
 
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
-
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+My first milestone was setting up and hooking the LED Neopixel with the Arduino. At first, the lights did turn on as one of the wires of the neopixel did not fit the female end of the wire connecting to the Arduino. Instead of continuously jamming the wire in, I decided to test the gadget without the wire plugged in, and it worked. The neopixel turned on and was glowing with the color green. Now that the lights work, I looked up a tutorial to test the other colors and found that some colors made the lights flicker.
+[![First Milestone](https://cdn.discordapp.com/attachments/986271309619146752/988828155131334716/unknown.png)](https://youtu.be/CnCB3jOBVtQ "First Milestone"){:target="_blank" rel="noopener"}
